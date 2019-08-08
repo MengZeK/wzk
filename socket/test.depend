@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1565005948 source:e:\cdblcs\test\test\main.cpp
+	"j_socket.h"
+	<stdio.h>
+	<pthread.h>
+
+1565006123 e:\cdblcs\test\test\j_socket.h
+	<stdio.h>
+	<errno.h>
+	<winsock2.h>
+	<pthread.h>
+
