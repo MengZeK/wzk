@@ -1,6 +1,4 @@
-# AI五子棋
-# 作者： Charles
-# 公众号：Charles的皮卡丘
+
 from graphics import *
 
 
